@@ -10,12 +10,12 @@
 
 # 🛠️ Projects:
 ### SeniorenAlltagPlus (2023)
-- A mobile-focused website for seniors to overcome loneliness.
+- Collaborated on the full-stack development of a mobile-focused website designed to combat loneliness among seniors, contributing to every stage of the development process
 - Technologies: Ruby on Rails, APIs, Stimulus JavaScript, Devise, WebSocket, Action Cable, Mapbox
 - [Explore SeniorenAlltagPlus](https://www.eadorable.live/)
 
 ### UsedCarHub
-- A platform for buying and selling cars.
+- Collaborated on the full-stack development of a platform for buying and selling cars, actively contributing to the implementation of key features
 - Technologies: Ruby on Rails, APIs, Stimulus JavaScript, Devise
 - [Explore UsedCarHub](https://usedcarhub-5728d4888e9a.herokuapp.com/)
 
