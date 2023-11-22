@@ -17,7 +17,7 @@
     </a>
 </div>
 
-# Projects:
+# 🛠️ Projects:
 I'm actively contributing to the full-stack development of SeniorenAlltagPlus, a mobile-focused website designed for seniors, providing a range of activities to overcome loneliness. You can explore the latest progress and features on the live website here: [SeniorenAlltagPlus](https://www.eadorable.live/).
 
 I contributed to the full-stack development of UsedCarHub, a website for selling and purchasing cars. You can explore the latest progress and features on the live website here: [UsedCarHub](https://usedcarhub-5728d4888e9a.herokuapp.com/).
@@ -66,13 +66,15 @@ I contributed to the full-stack development of UsedCarHub, a website for selling
 
 <hr/>
 
+<div align="center">
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
 <!-- [![](https://visitcount.itsvg.in/api?id=dragon-fire-fly&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=steven192811&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=steven192811&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=eadorable&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=eadorable&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 <hr/>
 
