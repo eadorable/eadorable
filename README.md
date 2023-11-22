@@ -4,15 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Erwin+Adorable!;" />
 </h1>
 
-<h3 align="center">A passionate futll stack web developer based in Germany</h3>
+<h3 align="center">A passionate full-stack web developer based in Germany</h3>
 
 <br/>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erwina/)
-[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:adorable.erwin@gmail.com)
-
+<a href="mailto:adorable.erwin@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"/>
+</a>
+<a href="https://www.linkedin.com/in/erwina" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/>
+</a>
 </div>
 
 # Projects:
@@ -35,7 +37,6 @@ I contributed to the full-stack development of UsedCarHub, a website for selling
 ### Frameworks & Accessories
 ![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Stimulus.js](https://img.shields.io/badge/-Stimulus.js-%235F468E?style=for-the-badge&logo=stimulus&logoColor=white)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
@@ -44,18 +45,8 @@ I contributed to the full-stack development of UsedCarHub, a website for selling
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku)
 
-### Tools i like
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-
 # 🌱 I’m currently learning ...  
-![Terraform](https://img.shields.io/badge/-Terraform-%235C4EE1?style=for-the-badge&logo=terraform&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![Docker](https://img.shields.io/badge/-Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
+![React](https://img.shields.io/badge/-React-%2361DAFB?style=for-the-badge&logo=react&logoColor=white)
 
 # 💻 I'm currently using ...  
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
