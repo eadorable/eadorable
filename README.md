@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Erwin+Adorable!;" />
 </h1>
 
-<h3 align="center">A passionate full-stack web developer based in Germany</h3>
+<h3 align="center">I'm a passionate Junior Full Stack Developer based in Germany</h3>
 
 <br/>
 
@@ -17,11 +17,17 @@
     </a>
 </div>
 
+
 # 🛠️ Projects:
-I'm actively contributing to the full-stack development of SeniorenAlltagPlus, a mobile-focused website designed for seniors, providing a range of activities to overcome loneliness. You can explore the latest progress and features on the live website here: [SeniorenAlltagPlus](https://www.eadorable.live/).
+### SeniorenAlltagPlus (2023)
+- A mobile-focused website for seniors to overcome loneliness.
+- Technologies: Ruby on Rails, APIs, Stimulus JavaScript, Devise, WebSocket, Action Cable, Mapbox
+- [Explore SeniorenAlltagPlus](https://www.eadorable.live/)
 
-I contributed to the full-stack development of UsedCarHub, a website for selling and purchasing cars. You can explore the latest progress and features on the live website here: [UsedCarHub](https://usedcarhub-5728d4888e9a.herokuapp.com/).
-
+### UsedCarHub
+- A platform for buying and selling cars.
+- Technologies: Ruby on Rails, APIs, Stimulus JavaScript, Devise
+- [Explore UsedCarHub](https://usedcarhub-5728d4888e9a.herokuapp.com/)
 
 # 💻 Tech Stack:
 ### Programming Languages
