@@ -8,16 +8,6 @@
 
 <br/>
 
-<div align="center">
-    <a href="mailto:adorable.erwin@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-    </a>
-    <a href="https://www.linkedin.com/in/erwina" >
-        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-</div>
-
-
 # 🛠️ Projects:
 ### SeniorenAlltagPlus (2023)
 - A mobile-focused website for seniors to overcome loneliness.
@@ -83,7 +73,18 @@
 </div>
 
 <hr/>
-Feel free to reach out and let's build something amazing together!
 <h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Feel+free+to+reach+out+on+Linkedin+and+let's+build+something+amazing+together!:)">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️"
+    alt="Typing animation">
 </h3>
+
+<div align="center">
+    <h3>Let's Connect!🌐</h3>
+    <a href="mailto:adorable.erwin@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    </a>
+    <a href="https://www.linkedin.com/in/erwina" >
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+</div>
+
